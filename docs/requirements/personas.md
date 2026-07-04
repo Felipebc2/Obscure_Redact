@@ -3,8 +3,9 @@
 ## P1 — Analista Jurídico / Paralegal (usuário primário)
 - **Contexto**: precisa anonimizar peças, contratos e petições antes de compartilhar.
 - **Dor**: tarjar CPF manualmente (imprimir, riscar, escanear) é lento e falho.
-- **Objetivo**: subir o PDF, receber a versão tarjada em segundos.
-- **Sucesso**: nenhum CPF permanece extraível no documento entregue.
+- **Objetivo**: subir o PDF, receber a versão tarjada em segundos, **conferir no preview** e
+  **tarjar trechos extras** que a automação não pegou (por palavra-chave ou seleção).
+- **Sucesso**: nenhum CPF permanece extraível e ele confia no resultado porque revisou antes de baixar.
 
 ## P2 — DPO / Encarregado LGPD (stakeholder de conformidade)
 - **Contexto**: responde por vazamento de dado pessoal (art. 5º LGPD).

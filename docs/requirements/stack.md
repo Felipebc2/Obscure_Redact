@@ -44,3 +44,5 @@ O meio-termo é **100% sobreposição** com a stack do usuário — que já list
 **Frontend** (`frontend/package.json`)
 - `next`, `react`, `react-dom`
 - `tailwindcss`, `postcss`, `autoprefixer`
+- `pdfjs-dist` / `react-pdf` — **preview** do PDF tarjado no cliente (RF05) e base para a
+  tarja interativa por seleção visual (RF08b)
